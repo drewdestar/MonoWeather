@@ -1,0 +1,30 @@
+MonoWeather
+Copyright 2026 NEWR Labs
+
+This product includes software developed by The Android Open Source Project (https://source.android.com/).
+License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+This product includes software from the following open source projects:
+
+- Kotlin (https://kotlinlang.org/)
+  License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+- Jetpack Compose (https://developer.android.com/jetpack/compose)
+  License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+- Retrofit (https://square.github.io/retrofit/)
+  License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+- OkHttp (https://square.github.io/okhttp/)
+  License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+- Moshi (https://github.com/square/moshi)
+  License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+- Google Play Services Location (https://developers.google.com/android/reference/com/google/android/gms/location/package-summary)
+  License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+- Accompanist Permissions (https://google.github.io/accompanist/permissions/)
+  License: Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+All other trademarks and copyrights are the property of their respective owners.

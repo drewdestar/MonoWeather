@@ -1,0 +1,10 @@
+local.properties
+newr_secret.gradle
+google-services.json
+*.jks
+build/
+.gradle/
+.idea/
+*.iml
+*.bak
+.DS_Store

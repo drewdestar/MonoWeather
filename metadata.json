@@ -1,0 +1,6 @@
+{
+  "name": "MonoWeather",
+  "description": "A minimalist black and white weather application inspired by Nothing Phone aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
